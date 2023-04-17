@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: ieeetr.bst
+Database file #1: biblio.bib
+Warning--I didn't find a database entry for "maram"
+Warning--I didn't find a database entry for "nguyen"
+Warning--I didn't find a database entry for "sacco"
+Warning--I didn't find a database entry for "analisis"
+Warning--I didn't find a database entry for "ali"
+Warning--I didn't find a database entry for "vitali"
+Warning--I didn't find a database entry for "hameed"
+Warning--I didn't find a database entry for "hershey"
+You've used 7 entries,
+            1876 wiz_defined-function locations,
+            521 strings with 4456 characters,
+and the built_in function-call counts, 1088 in all, are:
+= -- 95
+> -- 54
+< -- 0
++ -- 21
+- -- 14
+* -- 61
+:= -- 171
+add.period$ -- 13
+call.type$ -- 7
+change.case$ -- 3
+chr.to.int$ -- 0
+cite$ -- 7
+duplicate$ -- 57
+empty$ -- 124
+format.name$ -- 14
+if$ -- 258
+int.to.chr$ -- 0
+int.to.str$ -- 7
+missing$ -- 5
+newline$ -- 30
+num.names$ -- 7
+pop$ -- 31
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 18
+stack$ -- 0
+substring$ -- 0
+swap$ -- 9
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 7
+width$ -- 8
+write$ -- 66
+(There were 8 warnings)
